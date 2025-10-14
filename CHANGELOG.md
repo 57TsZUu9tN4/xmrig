@@ -612,3 +612,5 @@ This release based on 4.x.x series and include all features from v4.6.2-beta, ch
 
 # Previous versions
 [doc/CHANGELOG_OLD.md](doc/CHANGELOG_OLD.md)
+
+<!-- Auto-update: 2025-10-14T14:39:28.234040 -->
