@@ -460,3 +460,5 @@ Improved miner shutdown, fixed crash on exit for Linux and OS X.
 
 # v0.5.0
 - Initial public release.
+
+<!-- Auto-update: 2025-10-18T11:21:24.064892 -->
